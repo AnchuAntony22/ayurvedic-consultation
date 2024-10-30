@@ -1,0 +1,270 @@
+{
+    "welcome": "Välkommen",
+    "ayurvedic_consultation": "Ayurvediska konsultationer och behandlingar",
+    "experience_ayurveda": "Upplev den uråldriga helande visdomen i Ayurveda med Dr. Shyma, som erbjuder personliga livsstilskonsultationer och terapeutiska kroppsbehandlingar skräddarsydda för din unika kroppskonstitution.",
+    "about_me": "Om mig",
+    "read_more": "Läs mer",
+    "home": "Hem",
+    
+    "services": "Tjänster",
+    "pricing_guide": "Prissättning",
+    "testimonials": "Uttalanden",
+    "contact_us": "Kontakta oss",
+
+    "Home": "Hem",
+    "About Me": "Om mig",
+    "Services": "Tjänster",
+    "Pricing Guide": "Prisguide",
+    "Testimonials": "Referenser",
+    "Contact Us": "Kontakta oss",
+    
+
+    "Dr. Shyma K. Jacob, BAMS": "Dr. Shyma K. Jacob, BAMS",
+    "Ayurvedic Doctor & Certified Yoga Instructor": "Ayurvedisk läkare & certifierad yoga-instruktör",
+    "welcome_message": "Välkommen till vår klinik, där traditionell Ayurveda möter personlig vård. Jag är Dr. Shyma K. Jacob, en ayurvedisk läkare med över 12 års erfarenhet, med en BAMS-examen från KVG Ayurveda Medical College, Karnataka, Indien, och en certifiering i yoga-instruktion från SVYASA University, Bangalore, Indien.",
+    "experience": "Jag har haft privilegiet att arbeta med välkända institutioner i Indien som The Coimbatore Arya Vaidya Pharmacy, Birla Ayurveda Hospital, Shanthigiri Ayurveda Hospital, Nangelil Ayurveda och Marma Clinic. Dessutom fick jag avancerad utbildning vid den ansedda Kottakal Arya Vaidya Sala.",
+    "expertise": "Min expertis ligger i att diagnostisera hälsotillstånd och obalanserade Doshas genom Naadi Pareeksha, samt erbjuda Keralas traditionella ayurvediska behandlingar. Jag specialiserar mig på att hantera och behandla ett brett spektrum av åkommor, liksom smärthantering genom Marma-terapi.",
+    "holistic_healing": "Vid vår klinik fokuserar vi på holistisk läkning, och skapar personliga behandlingsplaner skräddarsydda för varje patients unika behov. Jag är engagerad i att erbjuda omfattande vård, ge råd till patienter om förebyggande hälsoåtgärder och främja positiva livsstilsförändringar för långsiktig hälsa.",
+    
+
+    "About Us": "Om oss",
+    "footer_about": "Vårt hälsocenter blandar gammal ayurvedisk visdom med moderna läkningstekniker för att främja optimal hälsa. Vi erbjuder personliga konsultationer, massage, örtbehandlingar och yoga- och meditationssessioner i en lugn miljö. Vårt mål är att hjälpa dig uppnå balans i kropp, sinne och själ, vilket ger en fridfull flykt från daglig stress. Följ med oss ​​för att utforska din unika konstitution och ge dig ut på en resa till ett hälsosammare, harmoniskt liv.",
+    "Navigation": "Navigering",
+    "Address": "Adress",
+    "Location": "AHN Kiropraktorerna, Söndrumsvägen 29, 302 37 Halmstad",
+    "Connect Us": "Anslut oss",
+    "Facebook": "Facebook",
+    "Instagram": "Instagram",
+    "Copyright": "© Copyright",
+    "All Rights Reserved": "Alla rättigheter reserverade",
+    "Designed by": "Designad av Anchu",
+    
+    "Happy Customers": "Nöjda Kunder",
+    "Testimonials": "Referenser",
+    "testimonials": [
+        {
+        "name": "Marianna Simonides",
+        "quote": "Som min ayurvediska läkare stödde Dr. Shyma mig under panchakarma-behandling i Indien med sin utmärkta kunskap och omsorg. Att hjälpa och förstå är i hennes blod. Jag rekommenderar starkt hennes tjänster till alla mina vänner.",
+        "image": "Marianna.jpg",
+        "location": "Tyskland"
+
+        },
+        {
+        "name": "Susanna",
+        "quote": "Efter att ha kämpat med kronisk ryggsmärta i flera år bestämde jag mig för att prova ayurvedisk behandling i Sverige. Den personliga vården jag fick gjorde en enorm skillnad! Kombinationen av örtmediciner och terapeutiska massager lindrade inte bara min smärta utan hjälpte mig också att känna mig mer avslappnad och föryngrad. Jag rekommenderar starkt deras tjänster till alla som söker holistisk läkning!",
+        "image": "face-girl.jpg",
+        "location": "sverige"
+
+        },
+        {
+        "name": "Erika Lindberg Crawford",
+        "quote": "Jag jobbar som yogalärare och har under många år tävlat på världscupen i kitesurfing och bott på Hawaii. Där har jag kommit i kontakt med många olika typer av metoder för att förbättra kroppens prestationsförmåga och främja harmoni, och där blev Ayurveda en mina favoriter. Jag träffade sedan Shyma när vi båda jobbade tillsammans som yogalärare på Varbergs Stadshotell och Asia Spa. Hon är som person väldigt varm och närvarande. Jag har fått Ayurvediska hälso konsultationer av Shyma som har hjälpt mig att må bättre!",
+        "image": "Ericka.jpg",
+        "location": "sverige"
+    
+        }
+    ],
+    
+    "services": [
+        {
+        "title": "Konsultation och Diagnos (Prakriti Analys)",
+        "description": "Upptäck din unika konstitution och återställ balansen med skräddarsydda ayurvediska insikter.",
+        "image": "/Active/assets/img/Ayurvedic+Massage.jpg",
+        "details": [
+            "Upptäck en väg till holistiskt välbefinnande genom personlig ayurvedisk konsultation och diagnos. Vår metod bygger på gamla ayurvediska principer som tar hänsyn till varje individs unika konstitution, känd som deras Prakriti. Genom att undersöka din fysiska, mentala och emotionella hälsa tillhandahåller vi en skräddarsydd hälsoplan utformad för att återställa balansen och främja långsiktig vitalitet.",
+            "Under konsultationen genomför vår ayurvediska expert en grundlig diagnos med traditionella metoder, inklusive Nadi Pariksha (pulsdiagnos), Jihva Pariksha (tungundersökning) och Sparsha Pariksha (beröringsbedömning). Vi undersöker din livsstil, kost, dagliga vanor och stressfaktorer för att identifiera obalanser i dina doshor—Vata, Pitta och Kapha.",
+            "Baserat på denna djupgående förståelse får du individuella rekommendationer, som kan inkludera kostjusteringar, örttillskott, livsstilsförändringar och kropp-själ-övningar som yoga och meditation. Oavsett om du adresserar specifika hälsoproblem eller söker förebyggande vård, vägleder vår ayurvediska konsultation dig mot ett balanserat, naturligt hälsotillstånd.",
+            "Upplev Ayurvedas transformerande kraft och påbörja din resa mot holistisk läkning."
+        ]
+        },
+        {
+        "title": "Ayurvedisk Massage (Abhyanga)",
+        "description": "Koppla av och föryngra med våra traditionella tekniker.",
+        "image": "/Active/assets/img/Ayurveda_Massage.webp",
+        "details": [
+            "Upplev den föryngrande kraften i Abhyanga, en traditionell ayurvedisk massage som harmoniserar kropp, sinne och själ. Abhyanga är en helkroppsmassage med varm olja som är utformad för att näringsge vävnader, förbättra cirkulationen och främja djup avslappning. Genom att använda örtingjutna oljor som valts specifikt för din dosha (kroppstyp) applicerar våra skickliga praktiker rytmiska, lugnande rörelser som stimulerar energiflödet och försiktigt avgiftar kroppen.",
+            "Denna massage tränger djupt in i huden, frigör spänningar, smörjer lederna och näringsger varje cell. Abhyanga hjälper till att balansera Vata, Pitta och Kapha-energier, lugnar nervsystemet och grundar kroppen för en känsla av inre frid och vitalitet. Regelbundna Abhyanga-behandlingar är kända för att förbättra hudens hälsa, förbättra sömnkvaliteten och stärka immuniteten.",
+            "Återupptäck balans och vitalitet genom denna gamla ayurvediska ritual som vårdar från insidan."
+        ]
+        },
+        {
+        "title": "Ansiktsmassage (Mukhabhyanga)",
+        "description": "Föryngra och näringsge din hud med gamla ayurvediska ansiktstekniker.",
+        "image": "/Active/assets/img/General-Massage.jpg",
+        "details": [
+            "Unna dig de föryngrande fördelarna med Mukh Abhyanga, en traditionell ayurvedisk ansiktsmassage som revitaliserar och näringsger huden samtidigt som den främjar avslappning. Mukh Abhyanga använder varma, örtinfunderade oljor och mjuka, rytmiska rörelser anpassade för din dosha (unika kroppstyp), vilket förbättrar cirkulationen, balanserar energiflödet och lämnar din hud strålande och revitaliserad.",
+            "Denna specialiserade massage fokuserar på ansiktets marma-punkter, eller vitala energicenter, för att släppa spänningar, minska fina linjer och förbättra hudens elasticitet. Den främjar också lymfatisk dränering, vilket hjälper till att avgifta huden och minska svullnad. Förutom de fysiska fördelarna lugnar Mukh Abhyanga sinnet och förbättrar mental klarhet, vilket ger en djup känsla av lugn och välbefinnande.",
+            "Upptäck den holistiska tillvägagångssättet för hudvård med Mukh Abhyanga—där skönhet, avslappning och inre harmoni samverkar naturligt."
+        ]
+        },
+        {
+        "title": "Huvudmassage (Shiro Abhyanga)",
+        "description": "Lugna ditt sinne och kropp med avslappnande huvudmassagetekniker för klarhet och avkoppling.",
+        "image": "/Active/assets/img/SHIRO-ABHYANGAM.jpg",
+        "details": [
+            "Upplev de lugnande effekterna av Shiroabhyanga, en ayurvedisk huvudmassage som främjar avslappning, klarhet och balans. Shiroabhyanga innebär applicering av varm, örtinfuserad olja på hårbotten, nacken och axlarna, i kombination med mjuka, rytmiska massagetekniker. Denna traditionella terapi näringsger håret, förbättrar hårbottens hälsa och lindrar spänningar i huvud, nacke och axlar.",
+            "Med fokus på att stimulera marma-punkter (vitala energicenter) hjälper Shiroabhyanga till att balansera kroppens energiflöde, minska stress och lugna nervsystemet. Denna massage är särskilt effektiv för att förbättra koncentration, minska mental trötthet och främja en god natts sömn.",
+            "Upptäck lugn och föryngring med Shiroabhyanga—en gammal praxis utformad för att uppfriska sinnet och vårda själen."
+        ]
+        },
+        {
+        "title": "Örtbehandlingar",
+        "description": "Upplev naturens helande kraft genom våra speciellt formulerade örtmedel.",
+        "image": "/Active/assets/img/img1.jpg",
+        "details": [
+            "Upptäck naturens helande kraft med våra ayurvediska örtbehandlingar, utformade för att återställa balans, vitalitet och harmoni i kropp och själ. Med hjälp av beprövade ayurvediska örter som valts för att möta dina unika behov verkar våra behandlingar för att avgifta, föryngra och stärka kroppens naturliga försvar.",
+            "Varje örtblandning är anpassad för att stödja din dosha (kroppskonstitution) och hälsomål, vare sig det är för att minska stress, förbättra matsmältningen, stärka immunförsvaret eller ta itu med specifika hälsoproblem. Från örtoljor och pulver till teer och kosttillskott, varje behandling är ren och naturlig, med växternas terapeutiska egenskaper som främjar holistiskt välbefinnande.",
+            "Våra ayurvediska örtbehandlingar erbjuder en skonsam men kraftfull väg till välbefinnande, som näringsger både kropp och sinne med naturens visdom. Omfamna ett balanserat och vibrerande liv genom örternas helande essens."
+        ]
+        },
+        {
+        "title": "Yoga och Meditation",
+        "description": "Odla inre frid och välbefinnande med guidade övningar som harmoniserar kropp och sinne.",
+        "image": "/Active/assets/img/yoga.jpg",
+        "details": [
+            "Omfamna holistiskt välbefinnande genom våra guidade yoga- och meditationsövningar, utformade för att harmonisera kropp, sinne och själ. Våra sessioner, som är rotade i ayurvediska principer, hjälper till att återställa inre balans, förbättra flexibilitet och främja mental klarhet, vilket gör dem idealiska för alla som vill förbättra sitt allmänna välbefinnande.",
+            "Våra yogaklasser fokuserar på positioner (asanas) som passar din dosha (kroppstyp), vilket främjar fysisk styrka, energiflöde och rörlighet i lederna. Kombinerat med meditationstekniker minskar vår metod stress, lugnar nervsystemet och skapar en djup känsla av frid och mindfulness. Varje session är noggrant utformad för att möta individuella behov, från stresslindring och emotionell motståndskraft till förbättrad sömn och koncentration.",
+            "Börja din resa mot balans och lugn med yoga och meditation—en väg till holistisk hälsa och ett fridfullt sinne."
+        ]
+        }
+    ],
+    
+    "consultation": {
+        "title": "Prissättningsguide",
+        
+        "consultations": [
+        {
+            "title": "Ayurvedisk konsultation med pulsdiagnos (Nadi Pariksha)",
+            "benefits": [
+            "Omfattande bedömning av fysisk, mental och emotionell hälsa",
+            "Nadi Pariksha (pulsdiagnos) för att utvärdera dosha obalanser (Vata, Pitta, Kapha)",
+            "Djupgående granskning av livsstil, kost och hälsohistoria",
+            "Personlig wellnessplan med kost-, ört- och livsstilsrekommendationer",
+            "Holistisk strategi för att ta itu med grundorsaker och främja långsiktig hälsa"
+            ],
+            "price": "600 kr/30 minuter, 800 kr/60 minuter"
+        },
+        {
+            "title": "Uppföljningskonsultationstjänster",
+            "benefits": [
+            "Översyn av framsteg och justeringar av personlig wellnessplan",
+            "Omvärdering av dosha-balans och hälso mål",
+            "Ytterligare vägledning om kost, livsstil och örtstöd",
+            "Hantera nya hälsoproblem eller symptom",
+            "Fortsatt stöd för långsiktig hälsa och balans"
+            ],
+            "price": "300 kr/30 minuter, 600 kr/60 minuter"
+        },
+        {
+            "title": "Hela kroppen massage (60 minuter) + konsultation (15 minuter)",
+            "benefits": [
+            "Avslappnande 60-minuters helkroppsmassage anpassad efter dina behov",
+            "Använder varma, örtinfunderade oljor för djup avslappning och återhämtning",
+            "Lindrar muskelspänningar, förbättrar cirkulationen och stödjer avgiftning",
+            "15-minuters konsultation för att bedöma individuella välbefinnande mål",
+            "Personliga rekommendationer för fortsatt balans och välbefinnande"
+            ],
+            "price": "1050 kr"
+        },
+        {
+            "title": "Hela kroppen massage (45 minuter)",
+            "benefits": [
+            "Uppfriskande 45-minuters helkroppsmassage fokuserad på avslappning och stresslindring",
+            "Inkluderar varma, örtoljor anpassade till din kroppstyp",
+            "Förbättrar cirkulationen och främjar muskelavslappning",
+            "Lindrar spänningar och lindrar obehag i nyckelområden",
+            "Ideal för att återställa balansen och återuppliva både kropp och själ"
+            ],
+            "price": "850 kr"
+        },
+        {
+            "title": "Abhyanga halvkroppsmassage + huvud och nacke (25 minuter)",
+            "benefits": [
+            "Nourishing 25-minuters Abhyanga-massage fokuserar på rygg, huvud och nacke",
+            "Använder varma, örtoljor för att djupt avslappna och återuppliva kroppen",
+            "Mål för spänningar i rygg, axlar och nacke för omedelbar lättnad",
+            "Stimulerar hårbotten och främjar mental klarhet med mjuk huvudmassage",
+            "Perfekt för en snabb återställning, som förbättrar allmänt välbefinnande och energiflöde"
+            ],
+            "price": "650 kr"
+        },
+        {
+            "title": "Ansiktsmassage (25 minuter)",
+            "benefits": [
+            "Återupplivande 25-minuters ansiktsmassage utformad för att förbättra hudhälsa",
+            "Använder närande oljor och tekniker anpassade till din hudtyp",
+            "Främjar avslappning samtidigt som den stimulerar blodcirkulation och lymfdränering",
+            "Mål för tryckpunkter för att lindra spänningar och främja en strålande hy",
+            "Ideal för att minska stress, förbättra hudens elasticitet och öka det allmänna utseendet"
+            ],
+            "price": "650 kr"
+        },
+        {
+            "title": "Shiroabhyanga (huvudmassage) (25 minuter)",
+            "benefits": [
+            "Revitaliserande 25-minuters Shiroabhyanga huvudmassage fokuserar på avslappning och klarhet",
+            "Använder varma, örtoljor för att vårda hårbotten och främja hårhälsa",
+            "Mål för spänningar i huvud, nacke och axlar för omedelbar lättnad",
+            "Stimulerar marma-punkter för att förbättra mental klarhet och lugna sinnet",
+            "Ideal för att minska stress och främja allmänt välbefinnande och balans"
+            ],
+            "price": "650 kr"
+        },
+        {
+            "title": "Harmony Healing - 25-minuters behandling paket (3 sessioner)",
+            "benefits": [
+            "Njut av ett revitaliserande 3-session paket av 25-minuters behandlingar anpassade till dina behov",
+            "Välj mellan alternativ som Shiroabhyanga (huvudmassage), ansiktsmassage eller riktade kroppsterapier",
+            "Varje session är utformad för att främja avslappning, lindra spänningar och förbättra allmänt välbefinnande",
+            "Perfekt för upptagna scheman, som ger en snabb men effektiv väg till återhämtning",
+            "Specialpaketering för en konsekvent välbefinnande resa och långvariga fördelar"
+            ],
+            "price": "1700 kr"
+        },
+        {
+            "title": "Ayur Healing - 45-minuters behandling paket",
+            "benefits": [
+            "Dyk in i ett återupplivande 3-session paket av 45-minuters Abhyanga-massager",
+            "Varje session använder varma, örtinfunderade oljor anpassade till din unika dosha för optimal avslappning",
+            "Främjar djup vävnadsnäring, förbättrar cirkulationen och lindrar stress",
+            "Ideal för att förbättra allmänt välbefinnande och återställa balans i kropp och själ",
+            "Specialpaketering för kontinuerlig egenvård och en transformativ välbefinnande upplevelse"
+            ],
+            "price": "2200 kr"
+        },
+        {
+            "title": "Holistic Harmony - 60-minuters behandling paket",
+            "benefits": [
+            "Dyk in i ett återupplivande 3-session paket av 60-minuters Abhyanga-massager",
+            "Varje session använder varma, örtinfunderade oljor anpassade till din unika dosha för optimal avslappning",
+            "Främjar djup vävnadsnäring, förbättrar cirkulationen och lindrar stress",
+            "Ideal för att förbättra allmänt välbefinnande och återställa balans i kropp och själ",
+            "Specialpaketering för kontinuerlig egenvård och en transformativ välbefinnande upplevelse"
+            ],
+            "price": "2850 kr"
+        }
+    ],
+    "bookNow": "Boka nu"
+    },
+
+
+    "contact": {
+        "getInTouch": "Kontakta oss",
+        "weLoveToHear": "Vi vill gärna höra från dig! Oavsett om du har frågor om våra tjänster, vill veta mer om hur vi kan hjälpa dig eller bara vill säga hej, tveka inte att höra av dig. Vårt team är här för att hjälpa och vägleda dig mot en bättre upplevelse.",
+        "location": "Plats:",
+        "email": "E-post:",
+        "call": "Ring:",
+        "yourName": "Ditt namn",
+        "yourEmail": "Din e-post",
+        "subject": "Ämne",
+        "message": "Meddelande",
+        "bookNow": "Boka nu"
+    }
+    
+    
+    
+    
+    
+      
+}
+

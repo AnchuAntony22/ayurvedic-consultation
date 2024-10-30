@@ -1,0 +1,268 @@
+{
+    "welcome": "Welcome",
+    "ayurvedic_consultation": "Ayurvedic Consultation & Treatments",
+    "experience_ayurveda": "Experience the ancient healing wisdom of Ayurveda with Dr. Shyma, offering personalized lifestyle consultations and therapeutic body treatments tailored to your unique body constitution.",
+    "about_me": "About Me",
+    "read_more": "Read More",
+
+    "home": "Home",
+    
+    "services": "Services",
+    "pricing_guide": "Pricing Guide",
+    "testimonials": "Testimonials",
+    "contact_us": "Contact Us",
+    
+
+    "Home": "Home",
+    "About Me": "About Me",
+    "Services": "Services",
+    "Pricing Guide": "Pricing Guide",
+    "Testimonials": "Testimonials",
+    "Contact Us": "Contact Us",
+
+    "Dr. Shyma K. Jacob, BAMS": "Dr. Shyma K. Jacob, BAMS",
+    "Ayurvedic Doctor & Certified Yoga Instructor": "Ayurvedic Doctor & Certified Yoga Instructor",
+    "welcome_message": "Welcome to our clinic, where traditional Ayurveda meets personalized care. I am Dr. Shyma K. Jacob, an Ayurvedic doctor with over 12 years of experience, holding a BAMS degree from KVG Ayurveda Medical College, Karnataka, India, and a certification in Yoga Instruction from SVYASA University, Bangalore, India.",
+    "experience": "I have had the privilege of working with renowned institutions in India such as The Coimbatore Arya Vaidya Pharmacy, Birla Ayurveda Hospital, Shanthigiri Ayurveda Hospital, Nangelil Ayurveda, and Marma Clinic. Additionally, I received advanced training at the esteemed Kottakal Arya Vaidya Sala.",
+    "expertise": "My expertise lies in diagnosing health conditions and imbalanced Doshas through Naadi Pareeksha, and offering Kerala’s traditional Ayurveda treatments. I specialize in managing and treating a wide range of ailments, as well as pain management through Marma therapy.",
+    "holistic_healing": "At our clinic, we focus on holistic healing, creating personalized treatment plans tailored to each patient’s unique needs. I am dedicated to providing comprehensive care, counseling patients on preventive health measures, and promoting positive lifestyle changes for long-term wellness.",
+    
+
+    "About Us": "About Us",
+    "footer_about": "Our wellness center blends ancient Ayurvedic wisdom with modern healing techniques to promote optimal health. We offer personalized consultations, massages, herbal treatments, and yoga and meditation sessions in a tranquil setting. Our goal is to help you achieve balance in body, mind, and spirit, providing a peaceful escape from daily stress. Join us to explore your unique constitution and embark on a journey to a healthier, harmonious life.",
+    "Navigation": "Navigation",
+    "Address": "Address",
+    "Location": "AHN Kiropraktorerna, Söndrumsvägen 29, 302 37 Halmstad",
+    "Connect Us": "Connect Us",
+    "Facebook": "Facebook",
+    "Instagram": "Instagram",
+    "Copyright": "© Copyright",
+    "All Rights Reserved": "All Rights Reserved",
+    "Designed by": "Designed by Anchu",
+    
+    "Happy Customers": "Happy Customers",
+    "Testimonials": "Testimonials",
+    "testimonials": [
+        {
+        "name": "Marianna Simonides",
+        "quote": "As my Ayurvedic doctor, Dr. Shyma supported me during panchakarma treatment in India with her excellent knowledge and care. Helping and understanding is in her blood. I highly recommend her services to all of my friends.",
+        "image": "Marianna.jpg",
+        "location": "Germany"
+        },
+        {
+        "name": "Susanna",
+        "quote": "After struggling with chronic back pain for years, I decided to try Ayurvedic treatment in Sweden. The personalized care I received made a world of difference! The combination of herbal remedies and therapeutic massages not only alleviated my pain but also helped me feel more relaxed and rejuvenated. I highly recommend their services to anyone seeking holistic healing!",
+        "image": "",
+        "location": "Sweden"
+        
+        },
+        {
+        "name": "Erika Lindberg Crawford",
+        "quote": "Jag jobbar som yogalärare och har under många år tävlat på världscupen i kitesurfing och bott på Hawaii. Där har jag kommit i kontakt med många olika typer av metoder för att förbättra kroppens prestationsförmåga och främja harmoni, och där blev Ayurveda en mina favoriter. Jag träffade sedan Shyma när vi båda jobbade tillsammans som yogalärare på Varbergs Stadshotell och Asia Spa. Hon är som person väldigt varm och närvarande. Jag har fått Ayurvediska hälso konsultationer av Shyma som har hjälpt mig att må bättre!",
+        "image": "Ericka.jpg",
+        "location": "Sweden"    
+    }
+    ] ,
+    
+      
+
+    "services": [
+        {
+        "title": "Consultation and Diagnosis (Prakriti Analysis)",
+        "description": "Discover your unique constitution and restore balance with tailored Ayurvedic insights.",
+        "image": "/Active/assets/img/Ayurvedic+Massage.jpg",
+        "details": [
+            "Discover a path to holistic wellness through personalized Ayurvedic consultation and diagnosis. Our approach is rooted in ancient Ayurvedic principles that consider the unique constitution of each individual, known as their Prakriti. By examining your physical, mental, and emotional health, we provide a tailored wellness plan designed to restore balance and promote long-term vitality.",
+            "During the consultation, our Ayurvedic expert conducts a thorough diagnosis using traditional methods, including Nadi Pariksha (pulse diagnosis), Jihva Pariksha (tongue examination), and Sparsha Pariksha (touch assessment). We explore your lifestyle, diet, daily habits, and stress factors to identify imbalances in your doshas—Vata, Pitta, and Kapha.",
+            "Based on this in-depth understanding, you’ll receive individualized recommendations, which may include dietary adjustments, herbal supplements, lifestyle modifications, and mind-body practices like yoga and meditation. Whether you’re addressing specific health concerns or seeking preventive care, our Ayurvedic consultation guides you toward a balanced, natural state of health and well-being.",
+            "Experience the transformative power of Ayurveda and begin your journey to holistic healing."
+        ]
+        },
+        {
+        "title": "Ayurvedic Massage (Abhyanga)",
+        "description": "Relax and rejuvenate with our traditional techniques.",
+        "image": "/Active/assets/img/Ayurveda_Massage.webp",
+        "details": [
+            "Experience the rejuvenating power of Abhyanga, a traditional Ayurvedic massage that harmonizes body, mind, and spirit. Abhyanga is a full-body warm oil massage designed to nourish tissues, enhance circulation, and promote deep relaxation. Using herb-infused oils selected specifically for your dosha (body type), our skilled practitioners apply rhythmic, soothing strokes that stimulate energy flow and gently detoxify the body.",
+            "This massage deeply penetrates the skin, releasing tension, lubricating the joints, and nourishing every cell. Abhyanga helps to balance Vata, Pitta, and Kapha energies, calming the nervous system and grounding the body for a sense of inner peace and vitality. Regular Abhyanga treatments are known to enhance skin health, improve sleep quality, and boost immunity.",
+            "Rediscover balance and vitality through this ancient Ayurvedic ritual that nurtures from within."
+        ]
+        },
+        {
+        "title": "Facial Massage (Mukhabhyanga)",
+        "description": "Rejuvenate and nourish your skin with ancient Ayurvedic facial techniques.",
+        "image": "/Active/assets/img/General-Massage.jpg",
+        "details": [
+            "Indulge in the rejuvenating benefits of Mukh Abhyanga, a traditional Ayurvedic facial massage that revitalizes and nourishes the skin while promoting overall relaxation. Mukh Abhyanga uses warm, herb-infused oils and gentle, rhythmic strokes tailored to your dosha (unique mind-body type), enhancing circulation, balancing energy flow, and leaving your skin radiant and revitalized.",
+            "This specialized massage targets facial marma points, or vital energy centers, to release tension, reduce fine lines, and improve skin elasticity. It also promotes lymphatic drainage, helping to detoxify the skin and reduce puffiness. Beyond the physical benefits, Mukh Abhyanga calms the mind and enhances mental clarity, leaving you with a deep sense of tranquility and well-being.",
+            "Discover the holistic approach to skincare with Mukh Abhyanga—where beauty, relaxation, and inner harmony come together naturally."
+        ]
+        },
+        {
+        "title": "Head Massage (Shiro Abhyanga)",
+        "description": "Soothe your mind and body with calming head massage techniques for clarity and relaxation.",
+        "image": "/Active/assets/img/SHIRO-ABHYANGAM.jpg",
+        "details": [
+            "Experience the soothing effects of Shiroabhyanga, an Ayurvedic head massage that promotes relaxation, clarity, and balance. Shiroabhyanga involves the application of warm, herbal oils to the scalp, neck, and shoulders, combined with gentle, rhythmic massage techniques. This traditional therapy nourishes the hair, improves scalp health, and alleviates tension in the head, neck, and shoulders.",
+            "Focused on stimulating marma points (vital energy centers), Shiroabhyanga helps to balance the body’s energy flow, reduce stress, and calm the nervous system. Known for its grounding effect, this massage helps improve focus, reduce mental fatigue, and encourage restful sleep. Regular Shiroabhyanga treatments are especially beneficial for relieving headaches, reducing anxiety, and promoting a sense of inner peace and relaxation.",
+            "Discover tranquility and rejuvenation with Shiroabhyanga—an ancient practice designed to refresh the mind and nurture the soul."
+        ]
+        },
+        {
+        "title": "Herbal Treatments",
+        "description": "Experience the healing power of nature through our specially formulated herbal remedies.",
+        "image": "/Active/assets/img/img1.jpg",
+        "details": [
+            "Discover the healing power of nature with our Ayurvedic herbal treatments, crafted to restore balance, vitality, and harmony to your body and mind. Using time-honored Ayurvedic herbs selected to address your unique needs, our treatments work to detoxify, rejuvenate, and strengthen the body’s natural defenses.",
+            "Each herbal blend is customized to support your dosha (body constitution) and health goals, whether it’s relieving stress, improving digestion, enhancing immunity, or addressing specific concerns. From herbal oils and powders to teas and supplements, every treatment is pure and natural, harnessing the potent therapeutic properties of plants to promote holistic wellness.",
+            "Our Ayurvedic herbal treatments provide a gentle, yet powerful approach to wellness, nurturing both body and mind with nature’s wisdom. Embrace a balanced, vibrant life through the healing essence of herbs."
+        ]
+        },
+        {
+        "title": "Yoga and Meditation",
+        "description": "Cultivate inner peace and well-being with guided practices that align body and mind.",
+        "image": "/Active/assets/img/yoga.jpg",
+        "details": [
+            "Embrace holistic wellness through our guided Yoga and Meditation practices, designed to harmonize body, mind, and spirit. Rooted in Ayurvedic principles, our sessions help restore inner balance, improve flexibility, and cultivate mental clarity, making them ideal for anyone seeking to enhance overall well-being.",
+            "Our yoga classes focus on postures (asanas) that align with your dosha (body type), promoting physical strength, energy flow, and joint mobility. Paired with meditation techniques, our approach reduces stress, calms the nervous system, and fosters a deep sense of peace and mindfulness. Each session is thoughtfully curated to address individual needs, from stress relief and emotional resilience to improved sleep and concentration.",
+            "Begin your journey towards balance and tranquility with Yoga and Meditation—a path to holistic health and a peaceful mind."
+        ]
+        }
+    ],
+
+    "consultation": {
+        "title": "Pricing Guide",
+        "bookNow": "Book now",
+        "consultations": [
+        {
+            "title": "Ayurvedic Consultation with Pulse Diagnosis (Nadi Pariksha)",
+            "benefits": [
+            "Comprehensive assessment of physical, mental, and emotional well-being",
+            "Nadi Pariksha (pulse diagnosis) to evaluate dosha imbalances (Vata, Pitta, Kapha)",
+            "In-depth review of lifestyle, diet, and health history",
+            "Personalized wellness plan with dietary, herbal, and lifestyle recommendations",
+            "Holistic approach to address root causes and promote long-term health"
+            ],
+            "price": "600 kr/30 Minutes, 800 kr/60 Minutes"
+        },
+        {
+            "title": "Follow-Up Consultation Services",
+            "benefits": [
+            "Review of progress and adjustments to personalized wellness plan",
+            "Re-evaluation of dosha balance and health goals",
+            "Additional guidance on diet, lifestyle, and herbal support",
+            "Address new health concerns or symptoms",
+            "Continued support for long-term wellness and balance"
+            ],
+            "price": "300 kr/30 Minutes, 600 kr/60 Minutes"
+        },
+        {
+            "title": "Full Body Massage (60 Minutes) + Consultation (15 Minutes)",
+            "benefits": [
+            "Relaxing 60-minute full-body massage tailored to your needs",
+            "Uses warm, herb-infused oils for deep relaxation and rejuvenation",
+            "Relieves muscle tension, improves circulation, and supports detoxification",
+            "15-minute consultation to assess individual wellness goals",
+            "Personalized recommendations for continued balance and well-being"
+            ],
+            "price": "1050 kr"
+        },
+        {
+            "title": "Full Body Massage (45 Minutes)",
+            "benefits": [
+            "Refreshing 45-minute full-body massage focused on relaxation and stress relief",
+            "Incorporates warm, herbal oils tailored to your body type",
+            "Enhances circulation and promotes muscle relaxation",
+            "Eases tension and alleviates discomfort in key areas",
+            "Ideal for restoring balance and rejuvenating both body and mind"
+            ],
+            "price": "850 kr"
+        },
+        {
+            "title": "Abhyanga Half Body Massage + Head and Neck (25 Minutes)",
+            "benefits": [
+            "Nourishing 25-minute Abhyanga massage focusing on the back, head, and neck",
+            "Uses warm, herbal oils to deeply relax and rejuvenate the body",
+            "Targets tension in the back, shoulders, and neck for immediate relief",
+            "Stimulates scalp and promotes mental clarity with gentle head massage",
+            "Perfect for a quick reset, enhancing overall well-being and energy flow"
+            ],
+            "price": "650 kr"
+        },
+        {
+            "title": "Facial Massage (25 Minutes)",
+            "benefits": [
+            "Rejuvenating 25-minute facial massage designed to enhance skin health",
+            "Uses nourishing oils and techniques tailored to your skin type",
+            "Promotes relaxation while stimulating blood circulation and lymphatic drainage",
+            "Targets pressure points to relieve tension and promote a radiant complexion",
+            "Ideal for reducing stress, improving skin elasticity, and enhancing overall glow"
+            ],
+            "price": "650 kr"
+        },
+        {
+            "title": "Shiroabhyanga (Head Massage) (25 Minutes)",
+            "benefits": [
+            "Revitalizing 25-minute Shiroabhyanga head massage focused on relaxation and clarity",
+            "Utilizes warm, herbal oils to nourish the scalp and promote hair health",
+            "Targets tension in the head, neck, and shoulders for immediate relief",
+            "Stimulates marma points to enhance mental clarity and calm the mind",
+            "Ideal for reducing stress and promoting overall well-being and balance"
+            ],
+            "price": "650 kr"
+        },
+        {
+            "title": "Harmony Healing - 25-Minute Treatment Package (3 Sessions)",
+            "benefits": [
+            "Enjoy a revitalizing 3-session package of 25-minute treatments tailored to your needs",
+            "Choose from options like Shiroabhyanga (head massage), facial massage, or targeted body therapies",
+            "Each session designed to promote relaxation, relieve tension, and enhance overall well-being",
+            "Perfect for busy schedules, providing a quick yet effective path to rejuvenation",
+            "Special package pricing for a consistent wellness journey and lasting benefits"
+            ],
+            "price": "1700 kr"
+        },
+        {
+            "title": "Ayur Healing - 45-Minute Treatment Package",
+            "benefits": [
+            "Immerse yourself in a rejuvenating 3-session package of 45-minute Abhyanga massages",
+            "Each session utilizes warm, herb-infused oils tailored to your unique dosha for optimal relaxation",
+            "Promotes deep tissue nourishment, improves circulation, and alleviates stress",
+            "Ideal for enhancing overall well-being and restoring balance in body and mind",
+            "Special package pricing for ongoing self-care and a transformative wellness experience"
+            ],
+            "price": "2200 kr"
+        },
+        {
+            "title": "Holistic Harmony - 60-Minute Treatment Package",
+            "benefits": [
+            "Immerse yourself in a rejuvenating 3-session package of 60-minute Abhyanga massages",
+            "Each session utilizes warm, herb-infused oils tailored to your unique dosha for optimal relaxation",
+            "Promotes deep tissue nourishment, improves circulation, and alleviates stress",
+            "Ideal for enhancing overall well-being and restoring balance in body and mind",
+            "Special package pricing for ongoing self-care and a transformative wellness experience"
+            ],
+            "price": "2850 kr"
+        }
+        ]
+    },
+    "contact": {
+    "getInTouch": "Get in touch",
+    "weLoveToHear": "We’d love to hear from you! Whether you have questions about our services, want to learn more about how we can help you, or just want to say hello, feel free to reach out. Our team is here to assist and guide you toward a better experience.",
+    "location": "Location:",
+    "email": "Email:",
+    "call": "Call:",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "subject": "Subject",
+    "message": "Message",
+    "bookNow": "Book Now"
+  }
+    
+    
+    
+      
+                                               
+                                    
+}
+
